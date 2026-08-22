@@ -1,7 +1,7 @@
-# Hi, I'm Josh Dunlap
+# Hi, I'm Josh Dunlap!
 
-I'm a Software Engineering student at **Rochester Institute of Technology** (Class of 2028)! 
-My hobbies include **coding, music, and cybersecurity**.
+I'm a Software Engineering student at **Rochester Institute of Technology** (Class of 2029). 
+My hobbies include **programming, cybersecurity, and music**.
 ---
 
 ## Skills
